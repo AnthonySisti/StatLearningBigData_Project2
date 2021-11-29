@@ -4,7 +4,7 @@ Second project in Brown Universty's Statistical Learning and Big Data course Spr
 
 # Goal
 
-This project focuses on continuing exploration of the data by applying two types of unsupervised learning seen in class - principal components analysis (PCA) and clustering. The goal is to understand more about the patterns or structure of the data through this analysis.  The data set I chose for this class was the Hotel Booking Data Set published by Nuno Antonio, Ana de Almeida and Luis Nunes. This data set features booking information for 119k hotel reservations. The data was gathered directly from hotel property management system databases using SQL Server Studio Manager, and contains 32 attributes. 
+This project focuses on continuing exploration of the data by applying two types of unsupervised learning seen in class - principal components analysis (PCA) and clustering. The goal is to understand more about the patterns or structure of the data through this analysis.  The data set I chose for this class was the Hotel Booking Data Set published by Nuno Antonio, Ana de Almeida and Luis Nunes. This data set features booking information for 119k hotel reservations. The data was gathered directly from hotel property management system databases using SQL Server Studio Manager, and contains 32 attributes. The question that motivates this data set is whether or not certain booking features can be used to predict whether a booking will be canceled or not.
 
 # Report Details
 The assignment requested the  following information:
